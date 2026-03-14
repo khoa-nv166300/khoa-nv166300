@@ -2,8 +2,6 @@
 
 ### A passionate C# developer
 
-<h1 align="center">Hi 👋, I'm Thomas Nguyen</h1>
-
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/90207538?v=4" width="180" style="border-radius:50%;">
 </p>
