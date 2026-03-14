@@ -2,7 +2,7 @@
 
 ### A passionate C# developer
 
-<p align="left"> <img src=["https://komarev.com/ghpvc/?username=khoa-nv166300&label=Profile views&color=0e75b6&style=flat" alt="khoa-nv166300"](https://avatars.githubusercontent.com/u/90207538?s=48&v=4) /> </p>
+<p align="left"> <img src=[<img src="https://github.com/khoa-nv166300.png" width="200" style="border-radius: 10px;" />](https://avatars.githubusercontent.com/u/90207538?s=48&v=4) /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khoa-nv166300" alt="khoa-nv166300" /></a> </p>
 
