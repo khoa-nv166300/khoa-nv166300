@@ -2,7 +2,10 @@
 
 ### A passionate C# developer
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/90207538?v=4" width="200"/> </p>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/90207538?v=4" width="200"
+  style="border-radius:50%; border:4px solid #58a6ff;">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
