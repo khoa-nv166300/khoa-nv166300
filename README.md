@@ -1,14 +1,52 @@
 # Hi 👋, I'm Thomas Nguyen
 
-### A passionate C# developer
+### 🚀 C# Developer | Machine Vision | Industrial Automation
 
+Passionate about developing software solutions using C#, .NET, Machine Vision, and AI technologies.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+### 🛠️ Languages and Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khoa-nv166300&show_icons=true&locale=en&layout=compact" alt="khoa-nv166300" /></p>
+<p align="left">
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40" alt=".NET"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=visualstudio" width="40" height="40" alt="Visual Studio"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khoa-nv166300&show_icons=true&locale=en" alt="khoa-nv166300" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khoa-nv166300&" alt="khoa-nv166300" /></p>
+### 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khoa-nv166300&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoa-nv166300&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+</p>
+
+### 📈 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khoa-nv166300&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning, always building, always improving.</i>
+</p>
